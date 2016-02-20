@@ -1,0 +1,150 @@
+Pointers
+------------
+0x7ff08a3886dc
+0x7ff089bac0d1
+0x7ff08abe51e7
+0x7ff08ac1f5e3
+0x7ff08b1832f1
+Raw
+------------
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff08a3886dc]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1) [0x7ff089bac0d1]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7) [0x7ff08abe51e7]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7ff08ac1f5e3]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7ff08b1832f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff08a3886dc
+0x7ff089bac0d1
+0x7ff08abe51e7
+0x7ff08ac1f5e3
+0x7ff08b1832f1
+Raw
+------------
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff08a3886dc]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1) [0x7ff089bac0d1]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7) [0x7ff08abe51e7]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7ff08ac1f5e3]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7ff08b1832f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff08a3886dc
+0x7ff089bac0d1
+0x7ff08abe51e7
+0x7ff08ac1f5e3
+0x7ff08b1832f1
+Raw
+------------
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff08a3886dc]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1) [0x7ff089bac0d1]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7) [0x7ff08abe51e7]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7ff08ac1f5e3]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7ff08b1832f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff08a3886dc
+0x7ff089bac0d1
+0x7ff08abe51e7
+0x7ff08ac1f5e3
+0x7ff08b1832f1
+Raw
+------------
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff08a3886dc]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1) [0x7ff089bac0d1]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7) [0x7ff08abe51e7]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7ff08ac1f5e3]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7ff08b1832f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff08a3886dc
+0x7ff089bac0d1
+0x7ff08abe51e7
+0x7ff08ac1f5e3
+0x7ff08b1832f1
+Raw
+------------
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff08a3886dc]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1) [0x7ff089bac0d1]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7) [0x7ff08abe51e7]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7ff08ac1f5e3]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7ff08b1832f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7ff08a3886dc
+0x7ff089bac0d1
+0x7ff08abe51e7
+0x7ff08ac1f5e3
+0x7ff08b1832f1
+Raw
+------------
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7ff08a3886dc]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1) [0x7ff089bac0d1]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7) [0x7ff08abe51e7]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7ff08ac1f5e3]
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7ff08b1832f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x35f0d1)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13981e7)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/sanjay_meena/Programs/anaconda3/envs/dato-env/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
